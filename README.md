@@ -15,6 +15,7 @@ interface GameData {
   achievements: number[];
   materials: string[];
   plants: string[];
+  skus: string[];
 }
 
 interface CharacterData {
